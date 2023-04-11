@@ -1,2 +1,3 @@
 # Baekjoon
-백준코딩 올라갈 Repository
+- 코딩문제
+백준 문제들 올라갈 저장소
